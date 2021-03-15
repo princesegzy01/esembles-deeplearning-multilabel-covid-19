@@ -1,0 +1,19 @@
+36726/36726 [==============================] - 459s 13ms/step - loss: 0.3729 - output1_loss: 0.2233 - output2_loss: 0.7481 - output1_acc: 0.8972 - output2_acc: 0.6692 - val_loss: 0.1213 - val_output1_loss: 0.0180 - val_output2_loss: 0.5167 - val_output1_acc: 0.9964 - val_output2_acc: 0.8064
+Epoch 2/10
+36726/36726 [==============================] - 440s 12ms/step - loss: 0.0902 - output1_loss: 0.0138 - output2_loss: 0.3822 - output1_acc: 0.9967 - output2_acc: 0.8665 - val_loss: 0.0986 - val_output1_loss: 0.0053 - val_output2_loss: 0.4668 - val_output1_acc: 0.9990 - val_output2_acc: 0.8358
+Epoch 3/10
+36726/36726 [==============================] - 440s 12ms/step - loss: 0.0415 - output1_loss: 0.0059 - output2_loss: 0.1778 - output1_acc: 0.9985 - output2_acc: 0.9436 - val_loss: 0.1125 - val_output1_loss: 0.0056 - val_output2_loss: 0.5344 - val_output1_acc: 0.9992 - val_output2_acc: 0.8315
+Epoch 4/10
+36726/36726 [==============================] - 441s 12ms/step - loss: 0.0213 - output1_loss: 0.0046 - output2_loss: 0.0835 - output1_acc: 0.9986 - output2_acc: 0.9744 - val_loss: 0.1400 - val_output1_loss: 0.0058 - val_output2_loss: 0.6707 - val_output1_acc: 0.9991 - val_output2_acc: 0.8281
+Epoch 5/10
+36726/36726 [==============================] - 442s 12ms/step - loss: 0.0134 - output1_loss: 0.0037 - output2_loss: 0.0487 - output1_acc: 0.9988 - output2_acc: 0.9854 - val_loss: 0.1614 - val_output1_loss: 0.0065 - val_output2_loss: 0.7744 - val_output1_acc: 0.9991 - val_output2_acc: 0.8272
+Epoch 6/10
+36726/36726 [==============================] - 442s 12ms/step - loss: 0.0111 - output1_loss: 0.0031 - output2_loss: 0.0398 - output1_acc: 0.9990 - output2_acc: 0.9879 - val_loss: 0.1757 - val_output1_loss: 0.0071 - val_output2_loss: 0.8428 - val_output1_acc: 0.9992 - val_output2_acc: 0.8234
+Epoch 7/10
+36726/36726 [==============================] - 429s 12ms/step - loss: 0.0097 - output1_loss: 0.0032 - output2_loss: 0.0326 - output1_acc: 0.9989 - output2_acc: 0.9907 - val_loss: 0.1845 - val_output1_loss: 0.0073 - val_output2_loss: 0.8858 - val_output1_acc: 0.9992 - val_output2_acc: 0.8301
+Epoch 8/10
+36726/36726 [==============================] - 430s 12ms/step - loss: 0.0090 - output1_loss: 0.0032 - output2_loss: 0.0292 - output1_acc: 0.9991 - output2_acc: 0.9913 - val_loss: 0.2226 - val_output1_loss: 0.0074 - val_output2_loss: 1.0759 - val_output1_acc: 0.9992 - val_output2_acc: 0.8181
+Epoch 9/10
+36726/36726 [==============================] - 431s 12ms/step - loss: 0.0076 - output1_loss: 0.0025 - output2_loss: 0.0258 - output1_acc: 0.9992 - output2_acc: 0.9923 - val_loss: 0.2572 - val_output1_loss: 0.0083 - val_output2_loss: 1.2445 - val_output1_acc: 0.9992 - val_output2_acc: 0.8066
+Epoch 10/10
+36726/36726 [==============================] - 429s 12ms/step - loss: 0.0070 - output1_loss: 0.0023 - output2_loss: 0.0236 - output1_acc: 0.9993 - output2_acc: 0.9928 - val_loss: 0.2390 - val_output1_loss: 0.0078 - val_output2_loss: 1.1558 - val_output1_acc: 0.9993 - val_output2_acc: 0.8210
